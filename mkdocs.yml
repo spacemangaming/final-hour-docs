@@ -11,8 +11,14 @@ nav:
     - Chapter 1 - configuring the game and getting connected: gameplay/chapter1.md
     - Chapter 2 - Navigating the map: gameplay/chapter2.md
     - Chapter 3 - Weapons: gameplay/chapter3.md
-    - User interface:
-      - Menus: gameplay/ui/menu.md
-  - Map building: xml_map_syntax.md
+    - Chapter 4 - Matches: gameplay/chapter4.md
+    - Chapter 5 - Powerups: gameplay/chapter5.md
+    - Chapter 6 - The location template: gameplay/chapter6.md
+  - Map building:
+    - Introduction: building/index.md
+    - Chapter 1 - The map syntax: building/chapter1.md
+    - Chapter 2 - The map element: building/chapter2.md
+    - Chapter 3 - The platform element: building/chapter3.md
+    - XML map syntax reference: xml_map_syntax.md
   - Credits: credits.md
   - The Log querying language (usable by moderators only): log_queries.md
