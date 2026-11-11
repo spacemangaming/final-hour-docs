@@ -19,6 +19,7 @@ nav:
     - Chapter 1 - The map syntax: building/chapter1.md
     - Chapter 2 - The map element: building/chapter2.md
     - Chapter 3 - The platform element: building/chapter3.md
+    - Map scripts and templates: building/scripting.md
     - XML map syntax reference: xml_map_syntax.md
   - Credits: credits.md
   - The Log querying language (usable by moderators only): log_queries.md
