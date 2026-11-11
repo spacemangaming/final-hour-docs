@@ -1,7 +1,7 @@
 site_name: Final Hour Documentation
 site_author: eagle_eyed<blind.lightning.productions@gmail.com>
 site_description: the documentation for the final hour audio game, an audio FPS inspired by Call of Duty Zombies. 
-site_url: https://finalhour.lowerelements.club/docs
+site_url: https://spacemanproductions.online/docs
 nav:
   - Home: index.md
   - Gameplay:

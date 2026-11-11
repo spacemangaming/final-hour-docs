@@ -19,7 +19,7 @@ Menus are navigated using the arrows and the return key.
 
  - Login: If you have an account set, this will log you directly into the server.
  - Set Account: this opens a dialog in which you must enter your username and password for an existing account.
- - Create Account: this opens a dialog in which you must enter a username and password to your new account. You will also have to agree to [our rules](https://finalhour.lowerelements.club/agreement) at this stage. Usernames must be 3 to 25 characters long; any spaces are turned into dashes. Passwords can be up to 70 characters long. If the server can't create your account, the game tells you why, for example when the name is already taken. 
+ - Create Account: this opens a dialog in which you must enter a username and password to your new account. You will also have to agree to [our rules](https://spacemanproductions.online/agreement) at this stage. Usernames must be 3 to 25 characters long; any spaces are turned into dashes. Passwords can be up to 70 characters long. If the server can't create your account, the game tells you why, for example when the name is already taken. 
  - options: this opens the options menu, which we will go through in the next section. 
  - exit: quits the game.
 
